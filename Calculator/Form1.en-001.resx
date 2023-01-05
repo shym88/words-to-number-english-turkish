@@ -1,0 +1,148 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="addition_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 120</value>
+  </data>
+  <data name="addition_btn.Text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="substraction_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>149, 120</value>
+  </data>
+  <data name="substraction_btn.Text" xml:space="preserve">
+    <value>Subtract</value>
+  </data>
+  <data name="multiplication_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>275, 120</value>
+  </data>
+  <data name="multiplication_btn.Text" xml:space="preserve">
+    <value>Multiply</value>
+  </data>
+  <data name="division_btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>401, 120</value>
+  </data>
+  <data name="division_btn.Text" xml:space="preserve">
+    <value>Divide</value>
+  </data>
+  <data name="param_lbl_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 35</value>
+  </data>
+  <data name="param_lbl_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 19</value>
+  </data>
+  <data name="param_lbl_1.Text" xml:space="preserve">
+    <value>First Number :</value>
+  </data>
+  <data name="param_txtbx_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>145, 32</value>
+  </data>
+  <data name="param_txtbx_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>369, 25</value>
+  </data>
+  <data name="param_lbl_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 73</value>
+  </data>
+  <data name="param_lbl_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>125, 19</value>
+  </data>
+  <data name="param_lbl_2.Text" xml:space="preserve">
+    <value>Second Number :</value>
+  </data>
+  <data name="param_txtbx_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>145, 70</value>
+  </data>
+  <data name="param_txtbx_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>369, 25</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 35</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 19</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Language :</value>
+  </data>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>392, 32</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>Valid Language</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>169, 19</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Valid Language : English</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Data Entry</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Result</value>
+  </data>
+</root>
